@@ -1,0 +1,3 @@
+[submodule "seelog"]
+	path = seelog
+	url = https://github.com/cihub/seelog
